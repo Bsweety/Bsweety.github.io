@@ -2,9 +2,9 @@
 title: VA5K Lex
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The VA5K is a 5K for anyone of all ages. Run or walk along side of veterans, 
+  veteran families or just simply people who want to make a difference! 
+  Your support affects veterans everywhere and they thank you greatly for it.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
@@ -15,14 +15,14 @@ facebook_username:
 twitter_username:
 github_username: buzzysweet
 address:
-  - line:
-  - line:
+  - line: 2250 Leestown Rd
+  - line: Lexington KY 40511
   # Feel free to add more lines here 
-telephone:
+telephone: (859) 351-5021
 copyright:
 
 # API settings
-google_api_key: AIzaSyCuBaWQMuHXrVQyDSWoOpm0G1c6Iyzl_VE
+google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
 
 # Build settings
 markdown: kramdown
